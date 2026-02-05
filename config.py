@@ -70,8 +70,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+fqCehbRaCTI5MDRl")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+fqCehbRaCTI5MDRl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/IamIstkhar")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+0oekeamatNtmNjll")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -144,15 +144,15 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/w7zybu.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/53aofa.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/w7zybu.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/53aofa.jpg"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/w7zybu.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/w7zybu.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/w7zybu.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/w7zybu.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/xf1ue0.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/xf1ue0.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/xf1ue0.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/xf1ue0.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
 YOUTUBE_IMG_URL = "https://telegra.ph/file/4dc854f961cd3ce46899b.jpg"
