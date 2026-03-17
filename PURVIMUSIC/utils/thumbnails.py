@@ -14,7 +14,8 @@ from youtubesearchpython.__future__ import VideosSearch
 from PURVIMUSIC import app
 from config import YOUTUBE_IMG_URL
 
-from py_yt import VideosSearch
+
+from youtubesearchpython import VideosSearch
 
 def changeImageSize(maxWidth, maxHeight, image):
     widthRatio = maxWidth / image.size[0]
